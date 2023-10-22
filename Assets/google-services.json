@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52263801420",
+    "firebase_url": "https://punchersio-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "punchersio",
+    "storage_bucket": "punchersio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52263801420:android:31e55d8073fd7311199ae9",
+        "android_client_info": {
+          "package_name": "com.MaestroGameStudio.puncherio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52263801420-m0kbo0dduce8qlhk40g2tejphum7vjj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrgffet4jjOHLHZhoWxRtWLbqatnDIbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52263801420-m0kbo0dduce8qlhk40g2tejphum7vjj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52263801420-fj9pk6sughtn6q5mq6qd7vov2a5tiigi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MaestroGameStudio.puncherio",
+                "app_store_id": "1637403530"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

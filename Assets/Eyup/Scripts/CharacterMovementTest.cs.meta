@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Assets/Eyup/Scripts/CharacterMovementTest.cs.meta
+guid: 44291e6fcf2b94dbf8821080fe0d635a
+=======
+guid: c98bf1f3ee6ff44718b4d8035eb5293c
+>>>>>>> f85ebb0c572c4973f2f6c3bbed37a410df36b70e:Assets/Scripts/Character/CharAttack.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

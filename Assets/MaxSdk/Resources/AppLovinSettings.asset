@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebc0ba1b5ef6b4a6b9dd53d7eadfea16, type: 3}
+  m_Name: AppLovinSettings
+  m_EditorClassIdentifier: 
+  qualityServiceEnabled: 0
+  sdkKey: 
+  setAttributionReportEndpoint: 0
+  consentFlowEnabled: 1
+  consentFlowPrivacyPolicyUrl: https://maestro.gs/privacy-policy/
+  consentFlowTermsOfServiceUrl: 
+  userTrackingUsageDescriptionEn: Please allow for personalized advertisement and
+    game experience
+  userTrackingUsageLocalizationEnabled: 1
+  userTrackingUsageDescriptionDe: Bitte erlauben Sie personalisierte Werbung und
+    ein personalisiertes Spielerlebnis
+  userTrackingUsageDescriptionEs: Permita publicidad personalizada y experiencia
+    de juego
+  userTrackingUsageDescriptionFr: "Veuillez permettre une publicit\xE9 personnalis\xE9e
+    et une exp\xE9rience de jeu"
+  userTrackingUsageDescriptionJa: "\u30D1\u30FC\u30BD\u30CA\u30E9\u30A4\u30BA\u3055\u308C\u305F\u5E83\u544A\u3068\u30B2\u30FC\u30E0\u4F53\u9A13\u3092\u8003\u616E\u3057\u3066\u304F\u3060\u3055\u3044"
+  userTrackingUsageDescriptionKo: "\uAC1C\uC778\uD654\uB41C \uAD11\uACE0 \uBC0F \uAC8C\uC784
+    \uACBD\uD5D8\uC744 \uD5C8\uC6A9\uD574\uC8FC\uC138\uC694."
+  userTrackingUsageDescriptionZhHans: "\u8BF7\u5141\u8BB8\u4E2A\u6027\u5316\u5E7F\u544A\u548C\u6E38\u620F\u4F53\u9A8C"
+  userTrackingUsageDescriptionZhHant: "\u8ACB\u5141\u8A31\u500B\u6027\u5316\u5EE3\u544A\u548C\u904A\u6232\u9AD4\u9A57"
+  adMobAndroidAppId: ca-app-pub-6388355296039997~3614159720
+  adMobIosAppId: ca-app-pub-6388355296039997~6048751375
+  snapAppStoreAppId: 0
